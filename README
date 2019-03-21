@@ -1,0 +1,4 @@
+to link the .vimrc and .gvimrc files, use these commands:
+
+ln -s ~/.vim/vimrc ~/.vimrc
+ln -s ~/.vim/gvimrc ~/.gvimrc
